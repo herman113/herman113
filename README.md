@@ -1,3 +1,13 @@
+<style>
+.blue {
+  color: blue;
+  background-color: lightblue;
+}
+.bold {
+  font-weight: bold;
+}
+</style>
+
 # I love coding!
 
 <h1 style="color: red;">I love coding!</h1>
@@ -15,13 +25,6 @@
 
       ~~Hi~~ Hello, world!
 
-<div class="notecard note">
-  <p><strong>Note:</strong> This is how you write a note.</p>
-  <p>It can have multiple lines.</p>
-</div>
-
-<!--  -->
-
 <h4 style="color:blue;">A blue heading</h4>
 
 [CLICK ME][identifier]{: #custom-id onclick="myJsFunc();"}
@@ -35,3 +38,7 @@
 </script>
 
 We <i class="fas fa-heart" aria-hidden="true" style="color:#c7254e"></i> GitLab!
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/NoFLJLJ7abE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
