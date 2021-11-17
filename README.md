@@ -42,3 +42,6 @@ We <i class="fas fa-heart" aria-hidden="true" style="color:#c7254e"></i> GitLab!
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/NoFLJLJ7abE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+:art
+| Projects :art: :pushpin:| Tutorials :school_satchel: :mortar_board: | Templates :page_facing_up: :pencil2: |
