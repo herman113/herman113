@@ -9,3 +9,7 @@
 > **Warning:** This is how you write a warning.
 >
 > It can have multiple paragraphs.
+
+- [ ] foo
+- [x] bar
+      ~~Hi~~ Hello, world!
