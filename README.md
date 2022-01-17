@@ -1,13 +1,22 @@
-<style>
-  .blue {
-    color: blue;
-    background-color: lightblue;
-}
-  .bold {
-    font-weight: bold;
-}
-</style>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      .blue {
+        color: blue;
+        background-color: lightblue;
+      }
+      .bold {
+        font-weight: bold;
+      }
+    </style>
+    <title>Workouts</title>
+  </head>
 
+  </body>
 # I love coding!
 
 <h1 style="blue">I love coding!</h1>
@@ -46,3 +55,6 @@ We <i class="fas fa-heart" aria-hidden="true" style="color:#c7254e"></i> GitLab!
 ---
 
 | Projects :art: :pushpin:| Tutorials :school_satchel: :mortar_board: | Templates :page_facing_up: :pencil2: |
+
+</body>
+</html>
