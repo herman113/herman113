@@ -1,5 +1,3 @@
-# I love coding!
-
 <h1 style="blue">I love coding!</h1>
 
 > **Note:** This is how you write a note.
