@@ -13,8 +13,6 @@
 
   ~~Hi~~ Hello, world!
 
-<h4 style="color:blue;">A blue heading</h4>
-
 ---
 
 | Projects :art: :pushpin:| Tutorials :school_satchel: :mortar_board: | Templates :page_facing_up: :pencil2: |
