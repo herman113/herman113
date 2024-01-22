@@ -25,7 +25,7 @@ My name is Herman Soto, and I'm a passionate personal trainer dedicated to fitne
   - HTML & CSS: Crafting responsive and visually appealing websites.
   - Zsh: Enhancing my development workflow.
 
-![An illustration of a person coding on a computer](![coding](https://github.com/herman113/herman113/assets/16930788/5833687c-05c5-4eb5-95ff-cc86b9d2a2a8))
+![An illustration of a person coding on a computer](https://github.com/herman113/herman113/blob/main/coding.png)
 
 ## Projects & Contributions
 
