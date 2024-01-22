@@ -2,9 +2,10 @@
 
 # Herman Soto: Personal Trainer & Full Stack Developer
 
-![An illustration of a personal trainer in a gym setting](/mnt/data/Illustration_of_a_personal_trainer_in_a_gym_settin.png)
+![An illustration of a personal trainer in a gym setting](![fitness](https://github.com/herman113/herman113/assets/16930788/b461e168-cfd3-4d50-9ea8-5c4515e41af4))
 
 ## About Me
+
 
 My name is Herman Soto, and I'm a passionate personal trainer dedicated to fitness and wellbeing. When I'm not empowering others through fitness, I delve into the world of coding, creating full-stack applications. Balancing my family life with my love for technology, I am always eager to learn and grow.
 
@@ -24,9 +25,10 @@ My name is Herman Soto, and I'm a passionate personal trainer dedicated to fitne
   - HTML & CSS: Crafting responsive and visually appealing websites.
   - Zsh: Enhancing my development workflow.
 
-![An illustration of a person coding on a computer](/mnt/data/Illustration_of_a_person_coding_on_a_computer,_dep.png)
+![An illustration of a person coding on a computer](![coding](https://github.com/herman113/herman113/assets/16930788/5833687c-05c5-4eb5-95ff-cc86b9d2a2a8))
 
 ## Projects & Contributions
+
 
 - **Fitness App**: A MERN stack application helping users track their fitness journey.
 - **Coding Blog**: Sharing my full-stack development experiences and learnings.
