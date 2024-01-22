@@ -2,7 +2,7 @@
 
 # Herman Soto: Personal Trainer & Full Stack Developer
 
-![An illustration of a personal trainer in a gym setting](![fitness](https://github.com/herman113/herman113/assets/16930788/b461e168-cfd3-4d50-9ea8-5c4515e41af4))
+![An illustration of a personal trainer in a gym setting](https://github.com/herman113/herman113/blob/main/fitness.png)
 
 ## About Me
 
